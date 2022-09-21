@@ -1,0 +1,3 @@
+﻿  quanly.cpp
+D:\13_14_15_p\Bai14\Bai14\quanly.cpp(112,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Bai14.vcxproj -> D:\13_14_15_p\Bai14\x64\Debug\Bai14.exe
